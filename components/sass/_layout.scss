@@ -1,0 +1,8 @@
+@import "susy";
+
+.banner__wrapper {
+	background-color: #EEE;
+	@include container(80%)
+}
+
+.projects__wrapper {}

@@ -1,0 +1,10 @@
+{
+  "name": "gulpworkflow",
+  "version": "1.0.0",
+  "description": "Project kickstart workflow with Gulp.",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Brandon Rukin"
+}
